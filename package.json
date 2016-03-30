@@ -1,0 +1,22 @@
+{
+  "name": "decks",
+  "version": "1.0.0",
+  "description": "decks for yugiouh",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbhurley92/Day22hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbhurley92/Day22hw/issues"
+  },
+  "homepage": "https://github.com/jbhurley92/Day22hw#readme",
+  "dependencies": {
+    "gulp-browserify": "^0.5.1"
+  }
+}
